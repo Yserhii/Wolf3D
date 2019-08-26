@@ -24,3 +24,6 @@ v align="center">
  - Left Shift (speed up)
  - E (alcohol effect)
  - ESC (close window with game)
+ ## Used technologies:
+ - Ray-Casting
+ - MinilibX
