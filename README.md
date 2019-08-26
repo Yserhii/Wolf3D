@@ -6,6 +6,6 @@ https://github.com/Yserhii/Wolf3D.git && cd Wolf3D && make
 ```
 
 <div align="center">
-  <img src="https://github.com/Yserhii/Wolf3D/blob/master/sourses/Part_1.gif" width="50%" />
-  <img src="https://github.com/Yserhii/Wolf3D/blob/master/sourses/Part_2.gif" width="50%" />
+  <img src="https://github.com/Yserhii/Wolf3D/blob/master/sourses/Part_1.gif" width="40%" />
+  <img src="https://github.com/Yserhii/Wolf3D/blob/master/sourses/Part_2.gif" width="40%" />
 </div>
