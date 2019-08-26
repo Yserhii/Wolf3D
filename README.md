@@ -4,11 +4,12 @@ How to start:
 ```bash
 https://github.com/Yserhii/Wolf3D.git && cd Wolf3D && make
 ```
-
-<div align="center">
+<di
+v align="center">
   <img src="https://github.com/Yserhii/Wolf3D/blob/master/sourses/Part_1.gif" width="45%" />
   <img src="https://github.com/Yserhii/Wolf3D/blob/master/sourses/Part_2.gif" width="45%" />
 </div>
+
 ## Tasks:
  - Create a maze game (wolf3d)
 ## How use:
