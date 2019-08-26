@@ -13,11 +13,14 @@ v align="center">
 ## Tasks:
  - Create a maze game (wolf3d)
 ## How use:
- - Open wolf3d
+ - Run wolf3d
 ## Control menu:
- - W
- - S
- - A
- - D
- - Left Shift
- - E
+ - W or ⬆ (move forward)
+ - S or ⬇ (move back)
+ - D (strive for the right)
+ - A (strive for the left)
+ - ⬅ or move mouse left (turn left)
+ - ➡ or move mouse rigth (turn right)
+ - Left Shift (speed up)
+ - E (alcohol effect)
+ - ESC (close window with game)
